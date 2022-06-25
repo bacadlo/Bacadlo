@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">Hi 👋, I'm Edwin Ngoche</h1>
+
+<h1 align="center">Hi there 👋, I'm Edwin Ngoche</h1>
 <h3 align="center">A Software Engineering Student at St. Cloud State University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bacadlo&label=Profile%20views&color=0e75b6&style=flat" alt="bacadlo" /> </p>
