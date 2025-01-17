@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bacadlo&label=Profile%20views&color=0e75b6&style=flat" alt="bacadlo" /> </p>
 
-- 🔭 I’m currently learning ... how to build autonomous task-oriented AI agents to serve me
+- 🔭 I’m currently learning ... how to build autonomous task-oriented AI agents
 - 🌱 I’m currently interested in ... machine learning and LLMs
 - 👯 I’m looking to collaborate on ... anything potentially monetizable
 - 💬 Ask me about ... web apps
