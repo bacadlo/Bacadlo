@@ -5,14 +5,14 @@
 
 - 🔭 I’m currently learning ... how to build autonomous task-oriented AI agents
 - 🌱 I’m currently interested in ... machine learning and LLMs
-- 👯 I’m looking to collaborate on ... anything potentially monetizable
-- 💬 Ask me about ... web apps
+- 👯 I’m looking to collaborate on ... anything potentially monetizable or fun or anything at all
+- 💬 Ask me about ... how to run a marathon
 - ⚡ Fun fact: ... you learn more from debugging than the official docs
 
   
-<h3 align="left">My 2nd Github account:</h3>
+<h3 align="left">My other github account:</h3>
 <p align="left">
-<a href="https://github.com/eongoche" target="blank"> Backup Github </a>
+<a href="https://github.com/eongoche" target="blank"> eongoche github </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
