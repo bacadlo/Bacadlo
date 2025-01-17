@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bacadlo&label=Profile%20views&color=0e75b6&style=flat" alt="bacadlo" /> </p>
 
-- 🔭 I’m currently learning ... how to build autonomous task-oriented AI agents
-- 🌱 I’m currently interested in ... machine learning and LLMs
-- 👯 I’m looking to collaborate on ... anything potentially monetizable or fun or anything at all
+- 🔭 I’m currently learning ... how to build task-oriented bots for fun(they make life easier🤷‍♂️)
+- 🌱 I’m currently interested in ... autonomous task automation and machine learning
+- 👯 I’m looking to collaborate on ... anything monetizable or fun ... or anything tbh
 - 💬 Ask me about ... how to run a marathon
 - ⚡ Fun fact: ... you learn more from debugging than the official docs
 
